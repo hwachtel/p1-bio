@@ -1,4 +1,21 @@
 /* Your Website Styles */
+body{
+	background: url("../img/bg.png"), #88D792;
+}
+
+h1{
+	font-family: 'Lobster', cursive;
+	color:orange;
+	font-size: 4em;
+
+	background: teal;
+	padding: 10px;
+	border: 10px black solid;
+	width: 300px;
+	margin: 10px;
+
+
+}
 
 
 /* Show Grid */
