@@ -25,6 +25,10 @@ h3{
 	margin-left:30px 
 }
 
+.margin-bottom{
+	margin-bottom: 0px;
+}
+
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
