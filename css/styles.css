@@ -20,12 +20,20 @@ h3{
 	color: teal;
 }
 
+
+
 .heidi-img{
 	width:268px;
 	border-radius: 14%;
 	box-shadow: 10px 10px 100px;
 	margin-top: 12px;
 }
+.cat-pic{
+	width:328; 
+	height:310;
+	border-radius:12%;
+}
+
 .subhead{
 	font-style: italic;
 	margin-left:30px 
